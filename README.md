@@ -5,7 +5,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.pinimg.com/564x/99/c0/9b/99c09bad62ca1f308fff8b84d3421b51.jpg" width="250" /> 
+<img align="left" src="https://raw.githubusercontent.com/artixnous/artix-branding/c43afa7904a45aecbade2833d5175282089c2a3d/logo/Signet_Grayscale.svg" width="250" /> 
 
 ```csharp
 0xLaurens
