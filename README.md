@@ -14,8 +14,9 @@ OS: Artix Linux x86_64
 Shell: zsh 5.8
 Pronouns: He/Him
 Education: Computer Science Student at Avans.
-FrontEnd: JavaScript, HTML, CSS
-BackEnd: Firebase, Node.js, Express.js, MySQL, MSSQL, Java, C++
+Frameworks: Vue, Angular, Nest.js, Node.js, Express and Nx 
+Languages: C#, Java, TS, JS, Python
+Databases: Firebase, MongoDb, SQL 
 Learning: Rust
 Professional: Jira, Git, Github 
 Hobbies: Bouldering, Gaming
