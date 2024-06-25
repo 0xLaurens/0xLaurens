@@ -6,7 +6,6 @@
 -------------------------
 OS: Artix Linux x86_64
 Shell: zsh 5.8
-Pronouns: He/Him
 Education: Computer Science Student at Avans.
 Frameworks: Vue, Angular, Nest.js, Node.js, Express and Nx 
 Languages: C#, Java, TS, JS, Python
