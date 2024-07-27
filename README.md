@@ -4,14 +4,12 @@
 ```csharp
 0xLaurens
 -------------------------
-OS: Artix Linux x86_64
+OS: Fedora Linux x86_64
 Shell: zsh 5.8
 Education: Computer Science Student at Avans.
 Frameworks: Vue, Angular, Nest.js, Node.js, Express and Nx 
-Languages: C#, Java, TS, JS, Python
+Languages: Go, C#, Java, TS, JS, Python
 Databases: Firebase, MongoDb, SQL 
-Learning: Rust
-Professional: Jira, Git, Github 
 Hobbies: Bouldering, Gaming
 -------------------------
 ```
