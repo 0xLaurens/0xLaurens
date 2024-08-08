@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Laurens</h1>
-<h3 align="center">I'm a passionate computer science student from the Netherlands.</h3>
+<h3 align="center">Hands on software developer, Computer science student.</h3>
 
 ```csharp
 0xLaurens
